@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Script to delay network traffic to a specific IP address</title>
-</head>
 <body>
     <h1>Script to delay network traffic to a specific IP address</h1>
     <p>This script sets a delay on network traffic to a specific IP address using the tc command in Linux.</p>
